@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/sch/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "vik")(type "KiCad")(uri "${KIPRJMOD}/sch/vik.kicad_sym")(options "")(descr ""))
+  (lib (name "ws2812b")(type "Legacy")(uri "${KIPRJMOD}/sch/ws2812b.lib")(options "")(descr ""))
 )
